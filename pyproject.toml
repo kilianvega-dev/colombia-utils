@@ -19,8 +19,8 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/cuajada69/colombia-utils"
-Issues = "https://github.com/cuajada69/colombia-utils/issues"
+Repository = "https://github.com/kilianvega-dev/colombia-utils"
+Issues = "https://github.com/kilianvega-dev/colombia-utils/issues"
 
 [dependency-groups]
 dev = ["pytest>=8"]

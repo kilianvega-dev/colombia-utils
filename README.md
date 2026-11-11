@@ -1,6 +1,6 @@
 # colombia-utils
 
-[![CI](https://github.com/cuajada69/colombia-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/cuajada69/colombia-utils/actions/workflows/ci.yml) · **English** · [Español](README.es.md)
+[![CI](https://github.com/kilianvega-dev/colombia-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/kilianvega-dev/colombia-utils/actions/workflows/ci.yml) · **English** · [Español](README.es.md)
 
 Small, dependency-free Python helpers for things every Colombian app ends up needing: **public holidays, business days and NIT check digits**.
 
@@ -18,7 +18,7 @@ For developers building invoicing, scheduling, payroll or e-commerce software fo
 Not on PyPI yet (see the [roadmap](ROADMAP.md)). Install from GitHub:
 
 ```bash
-pip install git+https://github.com/cuajada69/colombia-utils
+pip install git+https://github.com/kilianvega-dev/colombia-utils
 ```
 
 ## Usage
