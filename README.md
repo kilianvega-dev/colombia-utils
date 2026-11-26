@@ -15,10 +15,10 @@ For developers building invoicing, scheduling, payroll or e-commerce software fo
 
 ## Install
 
-Not on PyPI yet (see the [roadmap](ROADMAP.md)). Install from GitHub:
+Install from [PyPI](https://pypi.org/project/colombia-utils/):
 
 ```bash
-pip install git+https://github.com/kilianvega-dev/colombia-utils
+pip install colombia-utils
 ```
 
 ## Usage

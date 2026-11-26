@@ -15,10 +15,10 @@ Para quien desarrolla software de facturación, agendamiento, nómina o comercio
 
 ## Instalación
 
-Todavía no está en PyPI (mira el [roadmap](ROADMAP.md)). Se instala desde GitHub:
+Se instala desde [PyPI](https://pypi.org/project/colombia-utils/):
 
 ```bash
-pip install git+https://github.com/kilianvega-dev/colombia-utils
+pip install colombia-utils
 ```
 
 ## Uso
